@@ -4,18 +4,11 @@ var router = express.Router();
 router.get('/', function (req, res, next) {
     res.render('landing', { title: 'Welcome to My Favourite People' });
 });
-/* GET product page. */
+/* GET people page. */
 router.get('/people', function (req, res, next) {
     res.render('people', { title: 'My Favourite People' });
 });
-/* GET services page. */
-router.get('/services', function (req, res, next) {
-    res.render('index', { title: 'Services' });
-});
-/* GET about page. */
-router.get('/about', function (req, res, next) {
-    res.render('index', { title: 'About' });
-});
+
 /* GET contact page. */
 router.get('/contact', function (req, res, next) {
     res.render('contact', { title: 'Contact' });
