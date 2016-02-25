@@ -1,0 +1,22 @@
+{
+  "name": "m_practice",
+  "description": "m_practice deoloyed to Azure",
+  "main": "",
+  "authors": [
+    "Wangzhetuteng <ericdicaprio@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Wangzhetuteng/m_practice",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.5.0"
+  }
+}
