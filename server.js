@@ -5,8 +5,9 @@
  */
 
 var app = require('./app');
-var debug = require('debug')('m_practice:server');
+var debug = require('debug')('Midterm_exam_Yandong:server');
 var http = require('http');
+
 
 /**
  * Get port from environment and store in Express.

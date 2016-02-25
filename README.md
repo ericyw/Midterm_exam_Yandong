@@ -1,3 +1,4 @@
-# m_practice
+# Midterm_exam
 
-Practice fot midterm
+Midterm exam W2016 COMP2068 
+ 
